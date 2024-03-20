@@ -7,3 +7,4 @@ if inverso == junto:
     print('Temos um palíndromo')
 else:
     print('Não é um palíndromo')
+
